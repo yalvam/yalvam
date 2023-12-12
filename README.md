@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on README
-- 🌱 I’m currently learning git and javascipt
+- 🌱 I’m currently learning GIT and Javascipt
+- 📊SQL Databases: Exploring SQL databases, mastering data design and querying.
+- 🚀JavaScript (with HTML and CSS): Learning JavaScript, HTML, and CSS for dynamic web development.
 
 
 
