@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on README
+- 🌱 I’m currently learning git and javascipt
+
+
+
+
 <!--
 **yalvam/yalvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
